@@ -76,7 +76,7 @@ Standard Operation:
 		
  PARTY TIME:
  ---------------------------
- Bring your badge to the Rio Hotel and Casino and find us at 8:00pm Saturday August 3rd.
+ Thanks to everyone that came out. And a special thanks to Metacortex, Devino, Sobit, L34n, Dual Core, DJ RoboRob, and the MANY others not listed here that contributed and attended this years DC801 / theTransistor party. <3
  
  DEVELOPEMENT / REFLASHING:
  ---------------------------
