@@ -91,8 +91,6 @@ Standard Operation:
 	2) Move the Joystick to the Top-Left Corner, Press Button 1
 	3) Move the Joystick to the Bottom-Right Corner, Press Button 1
 
- If you Brick your Badge during DEFCON, find D3C4F to help you.
- 
+
  Happy Hacking!
- 
  

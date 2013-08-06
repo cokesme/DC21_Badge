@@ -1,0 +1,32 @@
+ ELECTRONICS:
+ --------------------------
+ dc21_badge.dip is a diptrace file. Diptrace is freely availably at http://diptrace.com
+ Feel free to use / modify to your hearts content. Unfortunately we didn't generate a schematic for this.
+ 
+ 
+ COMPONENT LIST:
+ ---------------------------
+ 1x mCU Atmel ATMEGA32U4-AU 44TQFP
+ 4x 74AHC595PW Shift Registers
+ 256x 0603 LED
+ 1x MOSFET CMP2305U-7 P-Ch SOT-23
+ 1x 16Mhz Crystal
+ 1x DC-DC Switching Regulator: NCP1402SN50T1G
+ 2x SM Buttons
+ 1x SM USB Micro Female Connector
+ 1x Analog Stick
+ 1x 2xAAA Battery Holder (or LiPo)
+ 1x SMT Slide Switch
+ 2x 10uF 0805 16v Capacitors
+ 1x 100uF 1206 6.3v Capacitor
+ 2x 22pF 0603 X7R Capacitor
+ 6x 1uF 0603 X7R Capacitor
+ 5x 100nF 0603 X7R Capacitor
+ 2x 33R 2506 Resistor Network: 742C163330JP
+ 3x 22R 0603 1% Resistor: MCR03EZPFX22R0
+ 1x 10K 0603: MCR03ERTJ103
+ 1x Schottky Diode SOD123: MBR0520LT1G
+ 1x Inductor 47uH: NR6028T470M
+ 
+ I think that's all the electronics. If you have any questions, free free to shoot us an email. :)
+ 
